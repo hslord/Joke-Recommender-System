@@ -1,2 +1,3 @@
 # Recommender-Case-Study
-Case Study completed at Galvanize - Utilized NMF and Matrix Factorization to make a Joke Recommender
+Implemented a joke recommender using Matrix Factorization which included joke latent features
+identified through lemmatization, TFIDF, and NMF, improving average user joke rating by 75%
